@@ -1,0 +1,27 @@
+.content {
+    padding-left: 20%;
+    padding-right: 20%;
+
+}
+.content h1 {
+    text-align: center;
+}
+
+h1 {
+    color: black;
+}
+body.oscuro p{
+    color: white;
+}
+
+body {
+    background-color: white;
+}
+
+body.oscuro {
+    background-color: black;
+}
+
+body.oscuro h1 {
+    color: yellow;
+}
